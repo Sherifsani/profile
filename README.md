@@ -29,8 +29,6 @@ Open: http://localhost:8080/me
 - `src/main/java/com/sherif/profile/ProfileResponse.java` — response DTO
 - `src/test/java/com/sherif/profile/ProfileApplicationTests.java` — basic Spring context test
 - `pom.xml` — Maven config (Java 21, Spring Boot starter web, org.json)
-- `blog-cover.svg` — suggested blog cover image (1200x630)
-- `blog.md` — dev.to-ready blog post draft
 
 ## Notes & TODOs
 
